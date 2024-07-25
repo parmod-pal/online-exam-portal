@@ -1,0 +1,27 @@
+[27-Aug-2019 04:02:59 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[27-Aug-2019 04:02:59 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[27-Aug-2019 04:03:09 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[27-Aug-2019 04:03:09 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[27-Aug-2019 04:03:09 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[27-Aug-2019 04:03:09 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[27-Aug-2019 04:03:51 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[27-Aug-2019 04:03:51 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[27-Aug-2019 04:04:00 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[27-Aug-2019 04:04:00 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[27-Aug-2019 04:04:07 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[27-Aug-2019 04:04:07 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[27-Aug-2019 04:04:09 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[27-Aug-2019 04:04:09 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[27-Aug-2019 04:04:11 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[27-Aug-2019 04:04:11 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[27-Aug-2019 04:04:14 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[27-Aug-2019 04:04:14 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[27-Aug-2019 04:04:17 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[27-Aug-2019 04:04:17 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[27-Aug-2019 04:06:45 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[27-Aug-2019 04:06:45 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[05-Nov-2021 08:06:22 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'elefaw8a_rimsr'@'localhost' (using password: YES) in /home3/rimsrcsp/public_html/staff/config.php on line 18
+[05-Nov-2021 08:06:34 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'elefaw8a_rimsr'@'localhost' (using password: YES) in /home3/rimsrcsp/public_html/staff/config.php on line 18
+[10-Nov-2021 07:14:25 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'elefaw8a_rimsr'@'localhost' (using password: YES) in /home3/rimsrcsp/public_html/staff/config.php on line 18
+[10-Nov-2021 11:30:32 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'elefaw8a_rimsr'@'localhost' (using password: YES) in /home3/rimsrcsp/public_html/staff/config.php on line 18
+[12-Nov-2021 02:54:57 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'elefaw8a_rimsr'@'localhost' (using password: YES) in /home3/rimsrcsp/public_html/staff/config.php on line 18

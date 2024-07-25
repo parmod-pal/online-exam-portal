@@ -1,0 +1,524 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>campuslime</title>
+
+<link href="campuslime.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="js/jquery.js" ></script>
+<script type="text/javascript" src="js/jquery.watermarkinput.js"></script>
+
+<script type="text/javascript">
+ jQuery(function($){
+	 $("#collegecoursename").Watermark("Course Name");
+	 $("#collegelocationname").Watermark("Location");
+	 $("#college_name").Watermark("College Name");
+	 
+	 $("#schoolcoursename").Watermark("Course Name");
+	 $("#schoollocationname").Watermark("Location");
+	 $("#schoolname").Watermark("School Name");
+	 
+	 $("#testpreparationname").Watermark("Course Name");
+	 $("#testpreparationlocationname").Watermark("Location");
+	 $("#testpreparation_center").Watermark("Testpreparation Institute Name");
+	 
+	 $("#cochingcentername").Watermark("Course Name");
+	 $("#cochingcenterlocationname").Watermark("Location");
+	 $("#cochingcenter_center").Watermark("Coching Centre Name");
+	 
+	 $("#prefessionalcourse_name").Watermark("Course Name");
+	 $("#prefessionalcourse_locationname").Watermark("Location");
+	 $("#prefessionalcourse_center").Watermark("Institute Name");
+	 
+	 $("#playschoolname").Watermark("Course Name");
+	 $("#playschoollocation").Watermark("Location");
+	 $("#playschoolcenter").Watermark("Play School Name");
+	 
+	  });
+	  </script>
+	  <script type="text/javascript">
+	var $jq=jQuery.noConflict();
+	$jq(document).ready(function(){
+		$jq("#coll").click(function(){
+		document.getElementById("col").style.display="block";
+		document.getElementById("sch").style.display="none";
+		document.getElementById("tstpre").style.display="none";
+		document.getElementById("coch").style.display="none";
+		document.getElementById("psch").style.display="none";
+		document.getElementById("pre").style.display="none";
+		document.getElementById("coll").setAttribute("class", "active");
+		document.getElementById("sc").setAttribute("class", "inactive");
+		document.getElementById("tp").setAttribute("class", "inactive");
+		document.getElementById("cc").setAttribute("class", "inactive");
+		document.getElementById("pc").setAttribute("class", "inactive");
+		document.getElementById("ps").setAttribute("class", "inactive");
+	   
+	   });
+	   $jq("#sc").click(function(){
+		document.getElementById("col").style.display="none";
+		document.getElementById("sch").style.display="block";
+		document.getElementById("tstpre").style.display="none";
+		document.getElementById("coch").style.display="none";
+		document.getElementById("psch").style.display="none";
+		document.getElementById("pre").style.display="none";
+		document.getElementById("coll").setAttribute("class", "inactive");
+		document.getElementById("sc").setAttribute("class", "active");
+		document.getElementById("tp").setAttribute("class", "inactive");
+		document.getElementById("cc").setAttribute("class", "inactive");
+		document.getElementById("pc").setAttribute("class", "inactive");
+		document.getElementById("ps").setAttribute("class", "inactive");
+	   
+	   });
+	   $jq("#tp").click(function(){
+		document.getElementById("col").style.display="none";
+		document.getElementById("sch").style.display="none";
+		document.getElementById("tstpre").style.display="block";
+		document.getElementById("coch").style.display="none";
+		document.getElementById("psch").style.display="none";
+		document.getElementById("pre").style.display="none";
+		document.getElementById("coll").setAttribute("class", "inactive");
+		document.getElementById("sc").setAttribute("class", "inactive");
+		document.getElementById("tp").setAttribute("class", "active");
+		document.getElementById("cc").setAttribute("class", "inactive");
+		document.getElementById("pc").setAttribute("class", "inactive");
+		document.getElementById("ps").setAttribute("class", "inactive");
+	   
+	   });
+	   $jq("#cc").click(function(){
+		document.getElementById("col").style.display="none";
+		document.getElementById("sch").style.display="none";
+		document.getElementById("tstpre").style.display="none";
+		document.getElementById("coch").style.display="block";
+		document.getElementById("psch").style.display="none";
+		document.getElementById("pre").style.display="none";
+		document.getElementById("coll").setAttribute("class", "inactive");
+		document.getElementById("sc").setAttribute("class", "inactive");
+		document.getElementById("tp").setAttribute("class", "inactive");
+		document.getElementById("cc").setAttribute("class", "active");
+		document.getElementById("pc").setAttribute("class", "inactive");
+		document.getElementById("ps").setAttribute("class", "inactive");
+	   });
+	   $jq("#pc").click(function(){
+		document.getElementById("col").style.display="none";
+		document.getElementById("sch").style.display="none";
+		document.getElementById("tstpre").style.display="none";
+		document.getElementById("coch").style.display="none";
+		document.getElementById("psch").style.display="none";
+		document.getElementById("pre").style.display="block";
+		document.getElementById("coll").setAttribute("class", "inactive");
+		document.getElementById("sc").setAttribute("class", "inactive");
+		document.getElementById("tp").setAttribute("class", "inactive");
+		document.getElementById("cc").setAttribute("class", "inactive");
+		document.getElementById("pc").setAttribute("class", "active");
+		document.getElementById("ps").setAttribute("class", "inactive");
+	   
+	   });		
+	   $jq("#ps").click(function(){
+		document.getElementById("col").style.display="none";
+		document.getElementById("sch").style.display="none";
+		document.getElementById("tstpre").style.display="none";
+		document.getElementById("coch").style.display="none";
+		document.getElementById("psch").style.display="block";
+		document.getElementById("pre").style.display="none";
+		document.getElementById("coll").setAttribute("class", "inactive");
+		document.getElementById("sc").setAttribute("class", "inactive");
+		document.getElementById("tp").setAttribute("class", "inactive");
+		document.getElementById("cc").setAttribute("class", "inactive");
+		document.getElementById("pc").setAttribute("class", "inactive");
+		document.getElementById("ps").setAttribute("class", "active");
+	   
+	   });
+		
+	});
+	
+</script>
+<script src="js/jquery.tabSlideOut.v1.3.js"></script>         
+ <script type="text/javascript">
+ var $jquery5 = jQuery.noConflict();
+ $jquery5(function(){
+	 $jquery5('.slide-out-div').tabSlideOut({
+		 tabHandle: '.handle',                              //class of the element that will be your tab
+		 pathToTabImage: 'images/questions.png',          //path to the image for the tab (optionaly can be set using css)
+		 imageHeight: '60px',                               //height of tab image
+		 imageWidth: '200px',                               //width of tab image    
+		 tabLocation: 'bottom',                               //side of screen where tab lives, top, right, bottom, or left
+		 speed: 10,                                        //speed of animation
+		 action: 'click',                                   //options: 'click' or 'hover', action to trigger animation
+		 topPos: '200px',                                   //position from the top
+		 fixedPosition: false                               //options: true makes it stick(fixed position) on scroll
+	 });
+ });
+
+ </script>
+<style type="text/css">
+<!--
+
+-->
+</style></head>
+
+<body>
+<div class="header_wrapper">
+<div class="firstline"></div>
+<div class="logo_login_wrapper">
+<div class="campuslogo"><img src="images/campuslimelogo.jpg" width="200" height="69" alt="logo" /></div>
+<div class="socilalikes"></div>
+<div class="homelogin_bg">
+<div class="home_menu"><a href="#">Home</a></div><div class="croosmenu"></div>
+<div class="home_menu"><a href="#">Log In</a></div><div class="croosmenu"></div>
+<div class="home_menu"><a href="#">Register</a></div>
+</div>
+</div>
+<div class="firstline"></div>
+<div class="tagline">Campuslime is your one stop destination for all your education needs</div>
+</div><!-------------------- header_wrapper_close----------------------->
+<div class="menu_warpper">
+<div class="menuarrager">
+    <div class="menus"><a href="#" class="active" id="coll">Colleges</a></div>
+    <div class="menus"><a href="#" class="" id="sc">School</a></div>
+    <div class="menus"><a href="#" class=""id="tp">Test Preparation</a></div>
+    <div class="menus"><a href="#" class="" id="cc">Coching Center</a></div>
+    <div class="menus"><a href="#" class="" id="pc">Prefessional Course</a></div>
+    <div class="menus"><a href="#" class="" id="ps">Play School</a></div>
+</div>
+</div><!------ close menu wrapper------>
+<div style="clear:both"></div>
+<br /><br /><br /><br /><br /><br />
+<div class="content_wrapper">
+<div class="left_content_container">
+<div id="col" style="">
+<div class="form_image_container">
+<div class="girl_image"><img src="images/copllegegirl.jpg" width="163" height="251" /></div>
+    <div class="form_container">
+    <div class="formheader">Find the Best College of India</div>
+      <div class="coursename">
+        <input type="text" name="collegecoursename" id="collegecoursename" style="width:203px; height:20px;" />
+       </div>
+      <div class="location">
+      <input type="text" name="collegelocationname" id="collegelocationname" style="width:203px; height:20px;" />
+       </div>
+     <div style="clear:both"></div>
+     <div class="institutename">
+        <input type="text" name="college_name" id="college_name" style="width:203px; height:20px;" />
+     </div>
+     <div style="clear:both"></div>
+     <div class="search">
+        <input type="submit" name="search" id="search" value="Search" style="width:116px; border-radius:.5em; border:none;        color:#FFF; height:26px; background-image:url(images/serchbut_bg.jpg)" />
+      </div>
+    </div>
+    </div>
+	</div><!-----  form_image_continer_close------------>
+    <div id="sch" style="display:none;">
+    <div class="form_image_container" >
+    <div class="girl_image"><img src="images/copllegegirl.jpg" width="163" height="251" /></div>
+    <div class="form_container">
+    <div class="formheader">Find the Best College of India</div>
+      <div class="coursename">
+        <input type="text" name="schoolcoursename" id="schoolcoursename" style="width:203px; height:20px;" />
+       </div>
+      <div class="location">
+      <input type="text" name="schoollocationname" id="schoollocationname" style="width:203px; height:20px;" />
+       </div>
+     <div style="clear:both"></div>
+     <div class="institutename">
+        <input type="text" name="schoolname" id="schoolname" style="width:203px; height:20px;" />
+     </div>
+     <div style="clear:both"></div>
+     <div class="search">
+        <input type="submit" name="search" id="search" value="Search" style="width:116px; border-radius:.5em; border:none;        color:#FFF; height:26px; background-image:url(images/serchbut_bg.jpg)" />
+      </div>
+    </div>
+    </div>
+	</div><!-----  form_image_continer_close------------>
+    
+	  <div id="tstpre" style="display:none;">
+     <div class="form_image_container">
+    <div class="girl_image"><img src="images/copllegegirl.jpg" width="163" height="251" /></div>
+    <div class="form_container">
+    <div class="formheader">Find the Best College of India</div>
+      <div class="coursename">
+        <input type="text" name="testpreparationname" id="testpreparationname" style="width:203px; height:20px;" />
+       </div>
+      <div class="location">
+      <input type="text" name="testpreparationlocationname" id="testpreparationlocationname" style="width:203px; height:20px;" />
+       </div>
+     <div style="clear:both"></div>
+     <div class="institutename">
+        <input type="text" name="testpreparation_center" id="testpreparation_center" style="width:203px; height:20px;" />
+     </div>
+     <div style="clear:both"></div>
+     <div class="search">
+        <input type="submit" name="search" id="search" value="Search" style="width:116px; border-radius:.5em; border:none;        color:#FFF; height:26px; background-image:url(images/serchbut_bg.jpg)" />
+      </div>
+    </div>
+    </div>
+	</div><!-----  form_image_continer_close------------>
+       <div id="coch" style="display:none;">
+     <div class="form_image_container">
+    <div class="girl_image"><img src="images/copllegegirl.jpg" width="163" height="251" /></div>
+    <div class="form_container">
+    <div class="formheader">Find the Best College of India</div>
+      <div class="coursename">
+        <input type="text" name="cochingcentername" id="cochingcentername" style="width:203px; height:20px;" />
+       </div>
+      <div class="location">
+    <input type="text" name="cochingcenterlocationname" id="cochingcenterlocationname" style="width:203px; height:20px;" />
+       </div>
+     <div style="clear:both"></div>
+     <div class="institutename">
+        <input type="text" name="cochingcenter_center" id="cochingcenter_center" style="width:203px; height:20px;" />
+     </div>
+     <div style="clear:both"></div>
+     <div class="search">
+        <input type="submit" name="search" id="search" value="Search" style="width:116px; border-radius:.5em; border:none;        color:#FFF; height:26px; background-image:url(images/serchbut_bg.jpg)" />
+      </div>
+    </div>
+    </div>
+	</div><!-----  form_image_continer_close------------>
+	<div id="pre" style="display:none;">
+     <div class="form_image_container">
+    <div class="girl_image"><img src="images/copllegegirl.jpg" width="163" height="251" /></div>
+    <div class="form_container">
+    <div class="formheader">Find the Best College of India</div>
+      <div class="coursename">
+        <input type="text" name="prefessionalcourse_name" id="prefessionalcourse_name" style="width:203px; height:20px;" />
+       </div>
+      <div class="location">
+    <input type="text" name="prefessionalcourse_locationname" id="prefessionalcourse_locationname" style="width:203px; height:20px;" />
+       </div>
+     <div style="clear:both"></div>
+     <div class="institutename">
+        <input type="text" name="prefessionalcourse_center" id="prefessionalcourse_center" style="width:203px; height:20px;" />
+     </div>
+     <div style="clear:both"></div>
+     <div class="search">
+        <input type="submit" name="search" id="search" value="Search" style="width:116px; border-radius:.5em; border:none;        color:#FFF; height:26px; background-image:url(images/serchbut_bg.jpg)" />
+      </div>
+    </div>
+    </div>
+	</div><!-----  form_image_continer_close------------>
+	<div id="psch" style="display:none;">
+      <div class="form_image_container">
+    <div class="girl_image"><img src="images/copllegegirl.jpg" width="163" height="251" /></div>
+    <div class="form_container">
+    <div class="formheader">Find the Best College of India</div>
+      <div class="coursename">
+        <input type="text" name="playschoolname" id="playschoolname" style="width:203px; height:20px;" />
+       </div>
+      <div class="location">
+    <input type="text" name="playschoollocation" id="playschoollocation" style="width:203px; height:20px;" />
+       </div>
+     <div style="clear:both"></div>
+     <div class="institutename">
+        <input type="text" name="playschoolcenter" id="playschoolcenter" style="width:203px; height:20px;" />
+     </div>
+     <div style="clear:both"></div>
+     <div class="search">
+        <input type="submit" name="search" id="search" value="Search" style="width:116px; border-radius:.5em; border:none;        color:#FFF; height:26px; background-image:url(images/serchbut_bg.jpg)" />
+      </div>
+    </div>
+    </div>
+	</div><!-----  form_image_continer_close------------>
+     <div style="clear:both"></div>  
+     <div class="applications_container">
+     <div class="application_online_bg">
+     <div class="applocation_online_but"><a href="#">Application Online Sign Up ></a></div> </div>
+     <div style="clear:both"></div> 
+     <div class="profilecontainer">
+     <div class="profileimage"><img src="images/profileimage.jpg" width="75" height="75" /></div>
+     <div class="namedetails"><a href="#">
+    <b>Shriya  </b>
+      Bangalore <br/>
+     MBA
+   </a> 
+      </div>
+     </div>
+     <div class="profilecontainer">
+     <div class="profileimage"><img src="images/profileimage.jpg" width="75" height="75" /></div>
+     <div class="namedetails">
+     <a href="#">
+    <b>Shriya  </b>
+      Bangalore <br/>
+     MBA
+   </a> 
+      </div>
+     </div>
+     <div class="profilecontainer">
+     <div class="profileimage"><img src="images/profileimage.jpg" width="75" height="75" /></div>
+     <div class="namedetails">
+    <a href="#">
+    <b>Shriya  </b>
+      Bangalore <br/>
+     MBA
+   </a> 
+      </div>
+     </div>
+     <div class="profilecontainer">
+     <div class="profileimage"><img src="images/profileimage.jpg" width="75" height="75" /></div>
+     <div class="namedetails">
+   <a href="#">
+    <b>Shriya  </b>
+      Bangalore <br/>
+     MBA
+   </a> 
+      </div>
+     </div>
+     <div class="profilecontainer">
+     <div class="profileimage"><img src="images/profileimage.jpg" width="75" height="75" /></div>
+     <div class="namedetails">
+   <a href="#">
+    <b>Shriya  </b>
+      Bangalore <br/>
+     MBA
+   </a> 
+      </div>
+     </div>
+     <div class="profilecontainer">
+     <div class="profileimage"><img src="images/profileimage.jpg" width="75" height="75" /></div>
+     <div class="namedetails">
+    <a href="#">
+    <b>Shriya  </b>
+      Bangalore <br/>
+     MBA
+   </a> 
+      </div>
+     </div>
+     
+     
+     
+     </div>
+        
+     <div class="applications_container">
+     <div class="application_online_bg">
+     <div class="applocation_online_but"><a href="#">Go Digital Add Your Inistitute ></a> ></div> </div>
+     <div style="clear:both"></div> 
+     <div class="profilecontainer">
+     <div class="profileimage"><img src="images/inisituteimag.jpg" width="75" height="75" /></div>
+     <div class="namedetails">
+    <a href="#"> T John Bangalore</a>
+    
+     </div>
+     </div>
+     <div class="profilecontainer">
+     <div class="profileimage"><img src="images/inisituteimag.jpg" width="75" height="75" /></div>
+     <div class="namedetails">
+    <a href="#"> IBS Bangalore</a>
+     </div>
+     </div>
+     <div class="profilecontainer">
+     <div class="profileimage"><img src="images/inisituteimag.jpg" width="75" height="75" /></div>
+     <div class="namedetails">
+    <a href="#"> Indian Inistitute
+     Bangalore </a>
+     </div>
+     </div>
+     <div class="profilecontainer">
+     <div class="profileimage"><img src="images/inisituteimag.jpg" width="75" height="75" /></div>
+     <div class="namedetails">
+   <a href="#"> IIM Bangalore</a>
+    </div>
+     </div>
+     <div class="profilecontainer">
+     <div class="profileimage"><img src="images/inisituteimag.jpg" width="75" height="75" /></div>
+     <div class="namedetails">
+     <a href="#"> Indian Inistitute<br />
+Bangalore</a> </div>
+     </div>
+     <div class="profilecontainer">
+     <div class="profileimage"><img src="images/inisituteimag.jpg" width="75" height="75" /></div>
+     <div class="namedetails">
+     <a href="#"> IIM Bangalore</a> 
+      </div>
+     </div>
+     </div>
+     
+    <div class="applications_container">
+     <div class="application_online_bg">
+     <div class="applocation_online_but"><a href="#">Why Campuslime ></a> </div> </div>
+     <div style="clear:both"></div>
+     
+     <div class="whycampuslimetext">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum</div>
+     <div class="more"><a href="#">More Info..</a></div>
+     
+    </div>
+     
+     
+
+</div><!---------  close left content-------------->
+
+<div class="announcement_conetent">
+<div class="announcement_head_bg"> <div class="announcementtext">Announcements</div></div>
+  <div class="announcemnet_content">
+  <b>GNIT College of Management  (Bangalore)</b><br/>
+   is simply dummy text of the printing and typesetting industry. Lorem Ipsum
+   </div>
+   <div class="announcent_cross"></div>
+
+  <div class="announcemnet_content">
+  <b>GNIT College of Management  (Bangalore)</b><br/>
+   is simply dummy text of the printing and typesetting industry. Lorem Ipsum
+   </div>
+   <div class="announcent_cross"></div>
+  <div class="announcemnet_content">
+  <b>GNIT College of Management  (Bangalore)</b><br/>
+   is simply dummy text of the printing and typesetting industry. Lorem Ipsum
+   </div>
+   <div class="announcent_cross"></div>
+   <div class="announcemnet_content">
+  <b>GNIT College of Management  (Bangalore)</b><br/>
+   is simply dummy text of the printing and typesetting industry. Lorem Ipsum
+   </div>
+   <div class="announcent_cross"></div>
+   
+   <div class="announcemnet_content">
+  <b>GNIT College of Management  (Bangalore)</b><br/>
+   is simply dummy text of the printing and typesetting industry. Lorem Ipsum
+   </div>
+   <div class="announcent_cross"></div>
+   <div class="announcemnet_content">
+  <b>GNIT College of Management  (Bangalore)</b><br/>
+   is simply dummy text of the printing and typesetting industry. Lorem Ipsum
+   </div>
+   <div class="announcent_cross"></div>
+<div class="announcemnet_content">
+  <b>GNIT College of Management  (Bangalore)</b><br/>
+   is simply dummy text of the printing and typesetting industry. Lorem Ipsum
+   </div>
+   <div class="announcent_cross"></div>
+
+   <div class="announcemnet_content">
+  <b>GNIT College of Management  (Bangalore)</b><br/>
+   is simply dummy text of the printing and typesetting industry. Lorem Ipsum
+   </div>
+   <div class="announcent_cross"></div>
+  <div class="announcemnet_content">
+  <b>GNIT College of Management  (Bangalore)</b><br/>
+   is simply dummy text of the printing and typesetting industry. Lorem Ipsum
+   </div>
+ <div class="announcent_cross"></div>
+ <div class="announcemnet_content">
+  <b>GNIT College of Management  (Bangalore)</b><br/>
+   is simply dummy text of the printing and typesetting industry. Lorem Ipsum
+   </div>
+ 
+ 
+</div>
+<div style="clear:both"></div>
+</div>
+<div class="footer">
+<div class="footermenu_container">
+<div class="footer_menu"><a href="#">About us</a></div><div class="footercross"></div>
+<div class="footer_menu"><a href="#">Privacy policy</a></div><div class="footercross"></div>
+<div class="footer_menu"><a href="#">Terms & Conditions</a></div><div class="footercross"></div>
+<div class="footer_menu"><a href="#">Contact Us</a></div><div class="footercross"></div>
+<div class="footer_menu"><a href="#">Inistitute Login</a></div><div class="footercross"></div>
+<div class="footer_menu"><a href="#">Inistitute Registration</a></div>
+<div style="clear:both"></div>
+<div class="copyrigt">copyright © 2011-2012 campuslime All Rights Reserved</div>
+
+</div>
+
+
+</div>
+<?php include 'askquestion.php';?>
+</body>
+</html>

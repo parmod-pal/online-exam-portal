@@ -1,0 +1,192 @@
+[04-Feb-2020 09:52:50 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/elefaw8a/rimsr.in/business/myprofile.php:1) in /home1/elefaw8a/rimsr.in/business/myprofile.php on line 2
+[31-May-2020 19:35:47 asia/kolkata] PHP Notice:  Undefined index: item_name in /home1/elefaw8a/rimsr.in/business/success.php on line 61
+[31-May-2020 19:35:47 asia/kolkata] PHP Notice:  Undefined index: tx in /home1/elefaw8a/rimsr.in/business/success.php on line 62
+[31-May-2020 19:35:47 asia/kolkata] PHP Notice:  Undefined index: amt in /home1/elefaw8a/rimsr.in/business/success.php on line 63
+[31-May-2020 19:35:47 asia/kolkata] PHP Notice:  Undefined index: cc in /home1/elefaw8a/rimsr.in/business/success.php on line 64
+[31-May-2020 19:35:47 asia/kolkata] PHP Notice:  Undefined index: st in /home1/elefaw8a/rimsr.in/business/success.php on line 65
+[17-Nov-2020 16:47:49 asia/kolkata] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (1605622667) at position 8 (6): Unexpected character in /home1/elefaw8a/rimsr.in/business/gettime.php:8
+Stack trace:
+#0 /home1/elefaw8a/rimsr.in/business/gettime.php(8): DateTime->__construct('1605622667')
+#1 {main}
+  thrown in /home1/elefaw8a/rimsr.in/business/gettime.php on line 8
+[17-Nov-2020 16:47:50 asia/kolkata] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (1605622667) at position 8 (6): Unexpected character in /home1/elefaw8a/rimsr.in/business/gettime.php:8
+Stack trace:
+#0 /home1/elefaw8a/rimsr.in/business/gettime.php(8): DateTime->__construct('1605622667')
+#1 {main}
+  thrown in /home1/elefaw8a/rimsr.in/business/gettime.php on line 8
+[17-Nov-2020 16:47:51 asia/kolkata] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (1605622667) at position 8 (6): Unexpected character in /home1/elefaw8a/rimsr.in/business/gettime.php:8
+Stack trace:
+#0 /home1/elefaw8a/rimsr.in/business/gettime.php(8): DateTime->__construct('1605622667')
+#1 {main}
+  thrown in /home1/elefaw8a/rimsr.in/business/gettime.php on line 8
+[17-Nov-2020 16:47:52 asia/kolkata] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (1605622667) at position 8 (6): Unexpected character in /home1/elefaw8a/rimsr.in/business/gettime.php:8
+Stack trace:
+#0 /home1/elefaw8a/rimsr.in/business/gettime.php(8): DateTime->__construct('1605622667')
+#1 {main}
+  thrown in /home1/elefaw8a/rimsr.in/business/gettime.php on line 8
+[17-Nov-2020 16:47:53 asia/kolkata] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (1605622667) at position 8 (6): Unexpected character in /home1/elefaw8a/rimsr.in/business/gettime.php:8
+Stack trace:
+#0 /home1/elefaw8a/rimsr.in/business/gettime.php(8): DateTime->__construct('1605622667')
+#1 {main}
+  thrown in /home1/elefaw8a/rimsr.in/business/gettime.php on line 8
+[17-Nov-2020 16:47:54 asia/kolkata] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (1605622667) at position 8 (6): Unexpected character in /home1/elefaw8a/rimsr.in/business/gettime.php:8
+Stack trace:
+#0 /home1/elefaw8a/rimsr.in/business/gettime.php(8): DateTime->__construct('1605622667')
+#1 {main}
+  thrown in /home1/elefaw8a/rimsr.in/business/gettime.php on line 8
+[17-Nov-2020 16:47:55 asia/kolkata] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (1605622667) at position 8 (6): Unexpected character in /home1/elefaw8a/rimsr.in/business/gettime.php:8
+Stack trace:
+#0 /home1/elefaw8a/rimsr.in/business/gettime.php(8): DateTime->__construct('1605622667')
+#1 {main}
+  thrown in /home1/elefaw8a/rimsr.in/business/gettime.php on line 8
+[17-Nov-2020 16:47:56 asia/kolkata] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (1605622667) at position 8 (6): Unexpected character in /home1/elefaw8a/rimsr.in/business/gettime.php:8
+Stack trace:
+#0 /home1/elefaw8a/rimsr.in/business/gettime.php(8): DateTime->__construct('1605622667')
+#1 {main}
+  thrown in /home1/elefaw8a/rimsr.in/business/gettime.php on line 8
+[17-Nov-2020 16:47:57 asia/kolkata] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (1605622667) at position 8 (6): Unexpected character in /home1/elefaw8a/rimsr.in/business/gettime.php:8
+Stack trace:
+#0 /home1/elefaw8a/rimsr.in/business/gettime.php(8): DateTime->__construct('1605622667')
+#1 {main}
+  thrown in /home1/elefaw8a/rimsr.in/business/gettime.php on line 8
+[17-Nov-2020 16:47:59 asia/kolkata] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (1605622667) at position 8 (6): Unexpected character in /home1/elefaw8a/rimsr.in/business/gettime.php:8
+Stack trace:
+#0 /home1/elefaw8a/rimsr.in/business/gettime.php(8): DateTime->__construct('1605622667')
+#1 {main}
+  thrown in /home1/elefaw8a/rimsr.in/business/gettime.php on line 8
+[17-Nov-2020 16:48:00 asia/kolkata] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (1605622667) at position 8 (6): Unexpected character in /home1/elefaw8a/rimsr.in/business/gettime.php:8
+Stack trace:
+#0 /home1/elefaw8a/rimsr.in/business/gettime.php(8): DateTime->__construct('1605622667')
+#1 {main}
+  thrown in /home1/elefaw8a/rimsr.in/business/gettime.php on line 8
+[17-Nov-2020 16:48:01 asia/kolkata] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (1605622667) at position 8 (6): Unexpected character in /home1/elefaw8a/rimsr.in/business/gettime.php:8
+Stack trace:
+#0 /home1/elefaw8a/rimsr.in/business/gettime.php(8): DateTime->__construct('1605622667')
+#1 {main}
+  thrown in /home1/elefaw8a/rimsr.in/business/gettime.php on line 8
+[17-Nov-2020 16:48:02 asia/kolkata] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (1605622667) at position 8 (6): Unexpected character in /home1/elefaw8a/rimsr.in/business/gettime.php:8
+Stack trace:
+#0 /home1/elefaw8a/rimsr.in/business/gettime.php(8): DateTime->__construct('1605622667')
+#1 {main}
+  thrown in /home1/elefaw8a/rimsr.in/business/gettime.php on line 8
+[17-Nov-2020 16:48:03 asia/kolkata] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (1605622667) at position 8 (6): Unexpected character in /home1/elefaw8a/rimsr.in/business/gettime.php:8
+Stack trace:
+#0 /home1/elefaw8a/rimsr.in/business/gettime.php(8): DateTime->__construct('1605622667')
+#1 {main}
+  thrown in /home1/elefaw8a/rimsr.in/business/gettime.php on line 8
+[17-Nov-2020 16:48:04 asia/kolkata] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (1605622667) at position 8 (6): Unexpected character in /home1/elefaw8a/rimsr.in/business/gettime.php:8
+Stack trace:
+#0 /home1/elefaw8a/rimsr.in/business/gettime.php(8): DateTime->__construct('1605622667')
+#1 {main}
+  thrown in /home1/elefaw8a/rimsr.in/business/gettime.php on line 8
+[17-Nov-2020 16:48:05 asia/kolkata] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (1605622667) at position 8 (6): Unexpected character in /home1/elefaw8a/rimsr.in/business/gettime.php:8
+Stack trace:
+#0 /home1/elefaw8a/rimsr.in/business/gettime.php(8): DateTime->__construct('1605622667')
+#1 {main}
+  thrown in /home1/elefaw8a/rimsr.in/business/gettime.php on line 8
+[17-Nov-2020 16:48:06 asia/kolkata] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (1605622667) at position 8 (6): Unexpected character in /home1/elefaw8a/rimsr.in/business/gettime.php:8
+Stack trace:
+#0 /home1/elefaw8a/rimsr.in/business/gettime.php(8): DateTime->__construct('1605622667')
+#1 {main}
+  thrown in /home1/elefaw8a/rimsr.in/business/gettime.php on line 8
+[17-Nov-2020 16:48:07 asia/kolkata] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (1605622667) at position 8 (6): Unexpected character in /home1/elefaw8a/rimsr.in/business/gettime.php:8
+Stack trace:
+#0 /home1/elefaw8a/rimsr.in/business/gettime.php(8): DateTime->__construct('1605622667')
+#1 {main}
+  thrown in /home1/elefaw8a/rimsr.in/business/gettime.php on line 8
+[17-Nov-2020 16:48:08 asia/kolkata] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (1605622667) at position 8 (6): Unexpected character in /home1/elefaw8a/rimsr.in/business/gettime.php:8
+Stack trace:
+#0 /home1/elefaw8a/rimsr.in/business/gettime.php(8): DateTime->__construct('1605622667')
+#1 {main}
+  thrown in /home1/elefaw8a/rimsr.in/business/gettime.php on line 8
+[17-Nov-2020 16:48:09 asia/kolkata] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (1605622667) at position 8 (6): Unexpected character in /home1/elefaw8a/rimsr.in/business/gettime.php:8
+Stack trace:
+#0 /home1/elefaw8a/rimsr.in/business/gettime.php(8): DateTime->__construct('1605622667')
+#1 {main}
+  thrown in /home1/elefaw8a/rimsr.in/business/gettime.php on line 8
+[17-Nov-2020 16:48:10 asia/kolkata] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (1605622667) at position 8 (6): Unexpected character in /home1/elefaw8a/rimsr.in/business/gettime.php:8
+Stack trace:
+#0 /home1/elefaw8a/rimsr.in/business/gettime.php(8): DateTime->__construct('1605622667')
+#1 {main}
+  thrown in /home1/elefaw8a/rimsr.in/business/gettime.php on line 8
+[17-Nov-2020 16:48:11 asia/kolkata] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (1605622667) at position 8 (6): Unexpected character in /home1/elefaw8a/rimsr.in/business/gettime.php:8
+Stack trace:
+#0 /home1/elefaw8a/rimsr.in/business/gettime.php(8): DateTime->__construct('1605622667')
+#1 {main}
+  thrown in /home1/elefaw8a/rimsr.in/business/gettime.php on line 8
+[17-Nov-2020 16:48:12 asia/kolkata] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (1605622667) at position 8 (6): Unexpected character in /home1/elefaw8a/rimsr.in/business/gettime.php:8
+Stack trace:
+#0 /home1/elefaw8a/rimsr.in/business/gettime.php(8): DateTime->__construct('1605622667')
+#1 {main}
+  thrown in /home1/elefaw8a/rimsr.in/business/gettime.php on line 8
+[17-Nov-2020 16:48:13 asia/kolkata] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (1605622667) at position 8 (6): Unexpected character in /home1/elefaw8a/rimsr.in/business/gettime.php:8
+Stack trace:
+#0 /home1/elefaw8a/rimsr.in/business/gettime.php(8): DateTime->__construct('1605622667')
+#1 {main}
+  thrown in /home1/elefaw8a/rimsr.in/business/gettime.php on line 8
+[17-Nov-2020 16:48:14 asia/kolkata] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (1605622667) at position 8 (6): Unexpected character in /home1/elefaw8a/rimsr.in/business/gettime.php:8
+Stack trace:
+#0 /home1/elefaw8a/rimsr.in/business/gettime.php(8): DateTime->__construct('1605622667')
+#1 {main}
+  thrown in /home1/elefaw8a/rimsr.in/business/gettime.php on line 8
+[17-Nov-2020 16:48:15 asia/kolkata] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (1605622667) at position 8 (6): Unexpected character in /home1/elefaw8a/rimsr.in/business/gettime.php:8
+Stack trace:
+#0 /home1/elefaw8a/rimsr.in/business/gettime.php(8): DateTime->__construct('1605622667')
+#1 {main}
+  thrown in /home1/elefaw8a/rimsr.in/business/gettime.php on line 8
+[17-Nov-2020 16:48:16 asia/kolkata] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (1605622667) at position 8 (6): Unexpected character in /home1/elefaw8a/rimsr.in/business/gettime.php:8
+Stack trace:
+#0 /home1/elefaw8a/rimsr.in/business/gettime.php(8): DateTime->__construct('1605622667')
+#1 {main}
+  thrown in /home1/elefaw8a/rimsr.in/business/gettime.php on line 8
+[17-Nov-2020 16:48:17 asia/kolkata] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (1605622667) at position 8 (6): Unexpected character in /home1/elefaw8a/rimsr.in/business/gettime.php:8
+Stack trace:
+#0 /home1/elefaw8a/rimsr.in/business/gettime.php(8): DateTime->__construct('1605622667')
+#1 {main}
+  thrown in /home1/elefaw8a/rimsr.in/business/gettime.php on line 8
+[17-Nov-2020 16:48:18 asia/kolkata] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (1605622667) at position 8 (6): Unexpected character in /home1/elefaw8a/rimsr.in/business/gettime.php:8
+Stack trace:
+#0 /home1/elefaw8a/rimsr.in/business/gettime.php(8): DateTime->__construct('1605622667')
+#1 {main}
+  thrown in /home1/elefaw8a/rimsr.in/business/gettime.php on line 8
+[17-Nov-2020 16:48:18 asia/kolkata] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (1605622667) at position 8 (6): Unexpected character in /home1/elefaw8a/rimsr.in/business/gettime.php:8
+Stack trace:
+#0 /home1/elefaw8a/rimsr.in/business/gettime.php(8): DateTime->__construct('1605622667')
+#1 {main}
+  thrown in /home1/elefaw8a/rimsr.in/business/gettime.php on line 8
+[17-Nov-2020 16:48:19 asia/kolkata] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (1605622667) at position 8 (6): Unexpected character in /home1/elefaw8a/rimsr.in/business/gettime.php:8
+Stack trace:
+#0 /home1/elefaw8a/rimsr.in/business/gettime.php(8): DateTime->__construct('1605622667')
+#1 {main}
+  thrown in /home1/elefaw8a/rimsr.in/business/gettime.php on line 8
+[17-Nov-2020 16:48:20 asia/kolkata] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (1605622667) at position 8 (6): Unexpected character in /home1/elefaw8a/rimsr.in/business/gettime.php:8
+Stack trace:
+#0 /home1/elefaw8a/rimsr.in/business/gettime.php(8): DateTime->__construct('1605622667')
+#1 {main}
+  thrown in /home1/elefaw8a/rimsr.in/business/gettime.php on line 8
+[17-Nov-2020 16:48:21 asia/kolkata] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (1605622667) at position 8 (6): Unexpected character in /home1/elefaw8a/rimsr.in/business/gettime.php:8
+Stack trace:
+#0 /home1/elefaw8a/rimsr.in/business/gettime.php(8): DateTime->__construct('1605622667')
+#1 {main}
+  thrown in /home1/elefaw8a/rimsr.in/business/gettime.php on line 8
+[17-Nov-2020 16:48:23 asia/kolkata] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (1605622667) at position 8 (6): Unexpected character in /home1/elefaw8a/rimsr.in/business/gettime.php:8
+Stack trace:
+#0 /home1/elefaw8a/rimsr.in/business/gettime.php(8): DateTime->__construct('1605622667')
+#1 {main}
+  thrown in /home1/elefaw8a/rimsr.in/business/gettime.php on line 8
+[17-Nov-2020 16:48:23 asia/kolkata] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (1605622667) at position 8 (6): Unexpected character in /home1/elefaw8a/rimsr.in/business/gettime.php:8
+Stack trace:
+#0 /home1/elefaw8a/rimsr.in/business/gettime.php(8): DateTime->__construct('1605622667')
+#1 {main}
+  thrown in /home1/elefaw8a/rimsr.in/business/gettime.php on line 8
+[17-Nov-2020 16:48:24 asia/kolkata] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (1605622667) at position 8 (6): Unexpected character in /home1/elefaw8a/rimsr.in/business/gettime.php:8
+Stack trace:
+#0 /home1/elefaw8a/rimsr.in/business/gettime.php(8): DateTime->__construct('1605622667')
+#1 {main}
+  thrown in /home1/elefaw8a/rimsr.in/business/gettime.php on line 8
+[17-Nov-2020 16:48:25 asia/kolkata] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (1605622667) at position 8 (6): Unexpected character in /home1/elefaw8a/rimsr.in/business/gettime.php:8
+Stack trace:
+#0 /home1/elefaw8a/rimsr.in/business/gettime.php(8): DateTime->__construct('1605622667')
+#1 {main}
+  thrown in /home1/elefaw8a/rimsr.in/business/gettime.php on line 8
+[12-Nov-2021 03:24:01 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'elefaw8a_rimsr'@'localhost' (using password: YES) in /home3/rimsrcsp/public_html/business/common/function.php on line 21

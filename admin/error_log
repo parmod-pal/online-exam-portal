@@ -1,0 +1,156 @@
+[12-Nov-2019 20:51:48 asia/singapore] PHP Notice:  Undefined index: tag in /home1/elefaw8a/rimsr.in/admin/editnews.php on line 40
+[06-Feb-2020 04:26:05 America/Chicago] PHP Warning:  POST Content-Length of 386654026 bytes exceeds the limit of 272629760 bytes in Unknown on line 0
+[06-Feb-2020 04:35:23 America/Chicago] PHP Warning:  POST Content-Length of 386654026 bytes exceeds the limit of 272629760 bytes in Unknown on line 0
+[06-Feb-2020 04:42:23 America/Chicago] PHP Warning:  POST Content-Length of 386654026 bytes exceeds the limit of 272629760 bytes in Unknown on line 0
+[06-Feb-2020 05:06:16 America/Chicago] PHP Warning:  POST Content-Length of 386654026 bytes exceeds the limit of 272629760 bytes in Unknown on line 0
+[06-Feb-2020 05:20:04 America/Chicago] PHP Warning:  POST Content-Length of 386654026 bytes exceeds the limit of 272629760 bytes in Unknown on line 0
+[06-Feb-2020 20:31:52 asia/singapore] PHP Notice:  Undefined index: tag in /home1/elefaw8a/rimsr.in/admin/editnews.php on line 40
+[06-Feb-2020 21:37:10 America/Chicago] PHP Warning:  POST Content-Length of 386654026 bytes exceeds the limit of 272629760 bytes in Unknown on line 0
+[06-Feb-2020 21:49:18 America/Chicago] PHP Warning:  POST Content-Length of 386654026 bytes exceeds the limit of 272629760 bytes in Unknown on line 0
+[06-Feb-2020 22:19:39 America/Chicago] PHP Warning:  POST Content-Length of 386654026 bytes exceeds the limit of 272629760 bytes in Unknown on line 0
+[06-Feb-2020 22:21:26 America/Chicago] PHP Warning:  POST Content-Length of 386654026 bytes exceeds the limit of 272629760 bytes in Unknown on line 0
+[06-Feb-2020 22:27:00 America/Chicago] PHP Warning:  POST Content-Length of 386654026 bytes exceeds the limit of 272629760 bytes in Unknown on line 0
+[06-Feb-2020 22:40:34 America/Chicago] PHP Warning:  POST Content-Length of 386654026 bytes exceeds the limit of 272629760 bytes in Unknown on line 0
+[17-Feb-2020 22:34:19 America/Chicago] PHP Warning:  POST Content-Length of 386654026 bytes exceeds the limit of 272629760 bytes in Unknown on line 0
+[11-Mar-2020 14:33:37 asia/singapore] PHP Notice:  Undefined index: tag in /home1/elefaw8a/rimsr.in/admin/editnews.php on line 40
+[20-Mar-2020 19:47:27 asia/singapore] PHP Notice:  Undefined index: tag in /home1/elefaw8a/rimsr.in/admin/editnews.php on line 40
+[01-Apr-2020 15:20:13 asia/singapore] PHP Notice:  Undefined index: tag in /home1/elefaw8a/rimsr.in/admin/editnews.php on line 40
+[01-Apr-2020 15:20:15 asia/singapore] PHP Notice:  Undefined index: tag in /home1/elefaw8a/rimsr.in/admin/editnews.php on line 40
+[01-Apr-2020 15:21:23 asia/singapore] PHP Notice:  Undefined index: tag in /home1/elefaw8a/rimsr.in/admin/editnews.php on line 40
+[01-Apr-2020 15:22:48 asia/singapore] PHP Notice:  Undefined index: tag in /home1/elefaw8a/rimsr.in/admin/editnews.php on line 40
+[01-Apr-2020 15:24:55 asia/singapore] PHP Notice:  Undefined index: tag in /home1/elefaw8a/rimsr.in/admin/editnews.php on line 40
+[02-Apr-2020 14:38:27 asia/singapore] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_escape_string() in /home1/elefaw8a/rimsr.in/admin/users.php:41
+Stack trace:
+#0 {main}
+  thrown in /home1/elefaw8a/rimsr.in/admin/users.php on line 41
+[02-Apr-2020 14:39:04 asia/singapore] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_escape_string() in /home1/elefaw8a/rimsr.in/admin/users.php:41
+Stack trace:
+#0 {main}
+  thrown in /home1/elefaw8a/rimsr.in/admin/users.php on line 41
+[02-Apr-2020 14:39:40 asia/singapore] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_escape_string() in /home1/elefaw8a/rimsr.in/admin/users.php:41
+Stack trace:
+#0 {main}
+  thrown in /home1/elefaw8a/rimsr.in/admin/users.php on line 41
+[02-Apr-2020 14:39:51 asia/singapore] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_escape_string() in /home1/elefaw8a/rimsr.in/admin/users.php:41
+Stack trace:
+#0 {main}
+  thrown in /home1/elefaw8a/rimsr.in/admin/users.php on line 41
+[21-Apr-2020 01:58:33 asia/singapore] PHP Notice:  Undefined index: tag in /home1/elefaw8a/rimsr.in/admin/editnews.php on line 40
+[18-Jun-2020 13:48:55 asia/singapore] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_escape_string() in /home1/elefaw8a/rimsr.in/admin/users.php:41
+Stack trace:
+#0 {main}
+  thrown in /home1/elefaw8a/rimsr.in/admin/users.php on line 41
+[25-Jul-2020 09:29:31 asia/singapore] PHP Notice:  Undefined index: tag in /home1/elefaw8a/rimsr.in/admin/editnews.php on line 40
+[29-Jul-2020 14:00:41 asia/singapore] PHP Notice:  Undefined index: tag in /home1/elefaw8a/rimsr.in/admin/editnews.php on line 40
+[10-Oct-2020 13:11:15 asia/singapore] PHP Notice:  Undefined index: tag in /home1/elefaw8a/rimsr.in/admin/editnews.php on line 40
+[15-Nov-2020 12:25:50 asia/singapore] PHP Notice:  Undefined index: tag in /home1/elefaw8a/rimsr.in/admin/editnews.php on line 40
+[22-Aug-2021 09:24:49 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'elefaw8a_rimsr'@'localhost' (using password: YES) in /home1/elefaw8a/rimsr.in/admin/function.php on line 19
+[22-Aug-2021 09:25:55 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'elefaw8a_rimsr'@'localhost' (using password: YES) in /home1/elefaw8a/rimsr.in/admin/function.php on line 19
+[03-Sep-2021 15:25:30 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'elefaw8a_rimsr'@'localhost' (using password: YES) in /home1/elefaw8a/rimsr.in/admin/function.php on line 19
+[03-Sep-2021 15:26:20 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'elefaw8a_rimsr'@'localhost' (using password: YES) in /home1/elefaw8a/rimsr.in/admin/function.php on line 19
+[10-Nov-2021 11:40:34 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'elefaw8a_rimsr'@'localhost' (using password: YES) in /home3/rimsrcsp/public_html/admin/function.php on line 19
+[10-Nov-2021 17:11:46 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'elefaw8a_rimsr'@'localhost' (using password: YES) in /home3/rimsrcsp/public_html/admin/function.php on line 19
+[11-Nov-2021 08:48:39 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home3/rimsrcsp/public_html/admin/delus.php on line 10
+[11-Nov-2021 08:48:46 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home3/rimsrcsp/public_html/admin/delus.php on line 10
+[11-Nov-2021 08:49:01 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home3/rimsrcsp/public_html/admin/delus.php on line 10
+[11-Nov-2021 09:09:06 UTC] PHP Warning:  unlink(images/blogimg//1372411585725615): Is a directory in /home3/rimsrcsp/public_html/admin/function.php on line 539
+[11-Nov-2021 09:09:06 UTC] PHP Warning:  unlink(images/blogimg//1566791573563108): Is a directory in /home3/rimsrcsp/public_html/admin/function.php on line 539
+[11-Nov-2021 09:09:06 UTC] PHP Warning:  unlink(images/blogimg//1750221602306675): Is a directory in /home3/rimsrcsp/public_html/admin/function.php on line 539
+[11-Nov-2021 09:09:06 UTC] PHP Warning:  unlink(images/blogimg//2261301596002441): Is a directory in /home3/rimsrcsp/public_html/admin/function.php on line 539
+[11-Nov-2021 09:09:06 UTC] PHP Warning:  unlink(images/blogimg//2605711585725613): Is a directory in /home3/rimsrcsp/public_html/admin/function.php on line 539
+[11-Nov-2021 09:09:06 UTC] PHP Warning:  unlink(images/blogimg//5867321536647144): Is a directory in /home3/rimsrcsp/public_html/admin/function.php on line 539
+[11-Nov-2021 09:09:06 UTC] PHP Warning:  unlink(images/blogimg//6904551532521671): Is a directory in /home3/rimsrcsp/public_html/admin/function.php on line 539
+[11-Nov-2021 09:09:06 UTC] PHP Warning:  unlink(images/blogimg//7983391558066874): Is a directory in /home3/rimsrcsp/public_html/admin/function.php on line 539
+[11-Nov-2021 09:09:06 UTC] PHP Warning:  rmdir(images/blogimg//): Directory not empty in /home3/rimsrcsp/public_html/admin/function.php on line 541
+[11-Nov-2021 09:09:06 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home3/rimsrcsp/public_html/admin/delnews.php on line 14
+[11-Nov-2021 17:24:39 asia/singapore] PHP Notice:  Undefined index: tag in /home3/rimsrcsp/public_html/admin/editnews.php on line 40
+[11-Nov-2021 09:26:35 UTC] PHP Warning:  unlink(images/blogimg//1372411585725615): Is a directory in /home3/rimsrcsp/public_html/admin/function.php on line 539
+[11-Nov-2021 09:26:35 UTC] PHP Warning:  unlink(images/blogimg//1566791573563108): Is a directory in /home3/rimsrcsp/public_html/admin/function.php on line 539
+[11-Nov-2021 09:26:35 UTC] PHP Warning:  unlink(images/blogimg//1750221602306675): Is a directory in /home3/rimsrcsp/public_html/admin/function.php on line 539
+[11-Nov-2021 09:26:35 UTC] PHP Warning:  unlink(images/blogimg//2261301596002441): Is a directory in /home3/rimsrcsp/public_html/admin/function.php on line 539
+[11-Nov-2021 09:26:35 UTC] PHP Warning:  unlink(images/blogimg//2605711585725613): Is a directory in /home3/rimsrcsp/public_html/admin/function.php on line 539
+[11-Nov-2021 09:26:35 UTC] PHP Warning:  unlink(images/blogimg//5867321536647144): Is a directory in /home3/rimsrcsp/public_html/admin/function.php on line 539
+[11-Nov-2021 09:26:35 UTC] PHP Warning:  unlink(images/blogimg//6144991636622679): Is a directory in /home3/rimsrcsp/public_html/admin/function.php on line 539
+[11-Nov-2021 09:26:35 UTC] PHP Warning:  unlink(images/blogimg//6904551532521671): Is a directory in /home3/rimsrcsp/public_html/admin/function.php on line 539
+[11-Nov-2021 09:26:35 UTC] PHP Warning:  unlink(images/blogimg//7983391558066874): Is a directory in /home3/rimsrcsp/public_html/admin/function.php on line 539
+[11-Nov-2021 09:26:35 UTC] PHP Warning:  rmdir(images/blogimg//): Directory not empty in /home3/rimsrcsp/public_html/admin/function.php on line 541
+[11-Nov-2021 09:26:35 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home3/rimsrcsp/public_html/admin/delnews.php on line 14
+[11-Nov-2021 09:26:44 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home3/rimsrcsp/public_html/admin/delnews.php on line 14
+[11-Nov-2021 17:27:29 asia/singapore] PHP Notice:  Undefined index: tag in /home3/rimsrcsp/public_html/admin/editnews.php on line 40
+[23-Nov-2021 10:33:56 UTC] PHP Warning:  unlink(images/blogimg//1372411585725615): Is a directory in /home3/rimsrcsp/public_html/admin/function.php on line 539
+[23-Nov-2021 10:33:56 UTC] PHP Warning:  unlink(images/blogimg//1566791573563108): Is a directory in /home3/rimsrcsp/public_html/admin/function.php on line 539
+[23-Nov-2021 10:33:56 UTC] PHP Warning:  unlink(images/blogimg//1750221602306675): Is a directory in /home3/rimsrcsp/public_html/admin/function.php on line 539
+[23-Nov-2021 10:33:56 UTC] PHP Warning:  unlink(images/blogimg//2261301596002441): Is a directory in /home3/rimsrcsp/public_html/admin/function.php on line 539
+[23-Nov-2021 10:33:56 UTC] PHP Warning:  unlink(images/blogimg//2605711585725613): Is a directory in /home3/rimsrcsp/public_html/admin/function.php on line 539
+[23-Nov-2021 10:33:56 UTC] PHP Warning:  unlink(images/blogimg//5867321536647144): Is a directory in /home3/rimsrcsp/public_html/admin/function.php on line 539
+[23-Nov-2021 10:33:56 UTC] PHP Warning:  unlink(images/blogimg//6144991636622679): Is a directory in /home3/rimsrcsp/public_html/admin/function.php on line 539
+[23-Nov-2021 10:33:56 UTC] PHP Warning:  unlink(images/blogimg//6904551532521671): Is a directory in /home3/rimsrcsp/public_html/admin/function.php on line 539
+[23-Nov-2021 10:33:56 UTC] PHP Warning:  unlink(images/blogimg//7983391558066874): Is a directory in /home3/rimsrcsp/public_html/admin/function.php on line 539
+[23-Nov-2021 10:33:56 UTC] PHP Warning:  rmdir(images/blogimg//): Directory not empty in /home3/rimsrcsp/public_html/admin/function.php on line 541
+[23-Nov-2021 10:33:56 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home3/rimsrcsp/public_html/admin/deltestimonial.php on line 14
+[23-Nov-2021 10:34:02 UTC] PHP Warning:  unlink(images/blogimg//1372411585725615): Is a directory in /home3/rimsrcsp/public_html/admin/function.php on line 539
+[23-Nov-2021 10:34:02 UTC] PHP Warning:  unlink(images/blogimg//1566791573563108): Is a directory in /home3/rimsrcsp/public_html/admin/function.php on line 539
+[23-Nov-2021 10:34:02 UTC] PHP Warning:  unlink(images/blogimg//1750221602306675): Is a directory in /home3/rimsrcsp/public_html/admin/function.php on line 539
+[23-Nov-2021 10:34:02 UTC] PHP Warning:  unlink(images/blogimg//2261301596002441): Is a directory in /home3/rimsrcsp/public_html/admin/function.php on line 539
+[23-Nov-2021 10:34:02 UTC] PHP Warning:  unlink(images/blogimg//2605711585725613): Is a directory in /home3/rimsrcsp/public_html/admin/function.php on line 539
+[23-Nov-2021 10:34:02 UTC] PHP Warning:  unlink(images/blogimg//5867321536647144): Is a directory in /home3/rimsrcsp/public_html/admin/function.php on line 539
+[23-Nov-2021 10:34:02 UTC] PHP Warning:  unlink(images/blogimg//6144991636622679): Is a directory in /home3/rimsrcsp/public_html/admin/function.php on line 539
+[23-Nov-2021 10:34:02 UTC] PHP Warning:  unlink(images/blogimg//6904551532521671): Is a directory in /home3/rimsrcsp/public_html/admin/function.php on line 539
+[23-Nov-2021 10:34:02 UTC] PHP Warning:  unlink(images/blogimg//7983391558066874): Is a directory in /home3/rimsrcsp/public_html/admin/function.php on line 539
+[23-Nov-2021 10:34:02 UTC] PHP Warning:  rmdir(images/blogimg//): Directory not empty in /home3/rimsrcsp/public_html/admin/function.php on line 541
+[23-Nov-2021 10:34:02 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home3/rimsrcsp/public_html/admin/deltestimonial.php on line 14
+[23-Nov-2021 10:34:06 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home3/rimsrcsp/public_html/admin/deltestimonial.php on line 14
+[23-Nov-2021 10:34:14 UTC] PHP Warning:  unlink(images/blogimg//1372411585725615): Is a directory in /home3/rimsrcsp/public_html/admin/function.php on line 539
+[23-Nov-2021 10:34:14 UTC] PHP Warning:  unlink(images/blogimg//1566791573563108): Is a directory in /home3/rimsrcsp/public_html/admin/function.php on line 539
+[23-Nov-2021 10:34:14 UTC] PHP Warning:  unlink(images/blogimg//1750221602306675): Is a directory in /home3/rimsrcsp/public_html/admin/function.php on line 539
+[23-Nov-2021 10:34:14 UTC] PHP Warning:  unlink(images/blogimg//2261301596002441): Is a directory in /home3/rimsrcsp/public_html/admin/function.php on line 539
+[23-Nov-2021 10:34:14 UTC] PHP Warning:  unlink(images/blogimg//2605711585725613): Is a directory in /home3/rimsrcsp/public_html/admin/function.php on line 539
+[23-Nov-2021 10:34:14 UTC] PHP Warning:  unlink(images/blogimg//5867321536647144): Is a directory in /home3/rimsrcsp/public_html/admin/function.php on line 539
+[23-Nov-2021 10:34:14 UTC] PHP Warning:  unlink(images/blogimg//6144991636622679): Is a directory in /home3/rimsrcsp/public_html/admin/function.php on line 539
+[23-Nov-2021 10:34:14 UTC] PHP Warning:  unlink(images/blogimg//6904551532521671): Is a directory in /home3/rimsrcsp/public_html/admin/function.php on line 539
+[23-Nov-2021 10:34:14 UTC] PHP Warning:  unlink(images/blogimg//7983391558066874): Is a directory in /home3/rimsrcsp/public_html/admin/function.php on line 539
+[23-Nov-2021 10:34:14 UTC] PHP Warning:  rmdir(images/blogimg//): Directory not empty in /home3/rimsrcsp/public_html/admin/function.php on line 541
+[23-Nov-2021 10:34:14 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home3/rimsrcsp/public_html/admin/deltestimonial.php on line 14
+[23-Nov-2021 10:34:23 UTC] PHP Warning:  unlink(images/blogimg//1372411585725615): Is a directory in /home3/rimsrcsp/public_html/admin/function.php on line 539
+[23-Nov-2021 10:34:23 UTC] PHP Warning:  unlink(images/blogimg//1566791573563108): Is a directory in /home3/rimsrcsp/public_html/admin/function.php on line 539
+[23-Nov-2021 10:34:23 UTC] PHP Warning:  unlink(images/blogimg//1750221602306675): Is a directory in /home3/rimsrcsp/public_html/admin/function.php on line 539
+[23-Nov-2021 10:34:23 UTC] PHP Warning:  unlink(images/blogimg//2261301596002441): Is a directory in /home3/rimsrcsp/public_html/admin/function.php on line 539
+[23-Nov-2021 10:34:23 UTC] PHP Warning:  unlink(images/blogimg//2605711585725613): Is a directory in /home3/rimsrcsp/public_html/admin/function.php on line 539
+[23-Nov-2021 10:34:23 UTC] PHP Warning:  unlink(images/blogimg//5867321536647144): Is a directory in /home3/rimsrcsp/public_html/admin/function.php on line 539
+[23-Nov-2021 10:34:23 UTC] PHP Warning:  unlink(images/blogimg//6144991636622679): Is a directory in /home3/rimsrcsp/public_html/admin/function.php on line 539
+[23-Nov-2021 10:34:23 UTC] PHP Warning:  unlink(images/blogimg//6904551532521671): Is a directory in /home3/rimsrcsp/public_html/admin/function.php on line 539
+[23-Nov-2021 10:34:23 UTC] PHP Warning:  unlink(images/blogimg//7983391558066874): Is a directory in /home3/rimsrcsp/public_html/admin/function.php on line 539
+[23-Nov-2021 10:34:23 UTC] PHP Warning:  rmdir(images/blogimg//): Directory not empty in /home3/rimsrcsp/public_html/admin/function.php on line 541
+[23-Nov-2021 10:34:23 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home3/rimsrcsp/public_html/admin/deltestimonial.php on line 14
+[12-Dec-2021 18:17:04 asia/singapore] PHP Warning:  move_uploaded_file(../images/tutorials/saral_shikshak/SampleVideo_1280x720_1mb.mp4): failed to open stream: No such file or directory in /home3/rimsrcsp/public_html/admin/uploadvideo.php on line 28
+[12-Dec-2021 18:17:04 asia/singapore] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpryBend' to '../images/tutorials/saral_shikshak/SampleVideo_1280x720_1mb.mp4' in /home3/rimsrcsp/public_html/admin/uploadvideo.php on line 28
+[12-Dec-2021 18:18:12 asia/singapore] PHP Warning:  move_uploaded_file(../images/tutorials/saral_shikshak/SampleVideo_1280x720_1mb.mp4): failed to open stream: No such file or directory in /home3/rimsrcsp/public_html/admin/uploadvideo.php on line 28
+[12-Dec-2021 18:18:12 asia/singapore] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpfiClIO' to '../images/tutorials/saral_shikshak/SampleVideo_1280x720_1mb.mp4' in /home3/rimsrcsp/public_html/admin/uploadvideo.php on line 28
+[21-Dec-2021 22:09:49 UTC] PHP Warning:  unlink(images/blogimg//1372411585725615): Is a directory in /home3/rimsrcsp/public_html/admin/function.php on line 539
+[21-Dec-2021 22:09:49 UTC] PHP Warning:  unlink(images/blogimg//1566791573563108): Is a directory in /home3/rimsrcsp/public_html/admin/function.php on line 539
+[21-Dec-2021 22:09:49 UTC] PHP Warning:  unlink(images/blogimg//1750221602306675): Is a directory in /home3/rimsrcsp/public_html/admin/function.php on line 539
+[21-Dec-2021 22:09:49 UTC] PHP Warning:  unlink(images/blogimg//2261301596002441): Is a directory in /home3/rimsrcsp/public_html/admin/function.php on line 539
+[21-Dec-2021 22:09:49 UTC] PHP Warning:  unlink(images/blogimg//2605711585725613): Is a directory in /home3/rimsrcsp/public_html/admin/function.php on line 539
+[21-Dec-2021 22:09:49 UTC] PHP Warning:  unlink(images/blogimg//5867321536647144): Is a directory in /home3/rimsrcsp/public_html/admin/function.php on line 539
+[21-Dec-2021 22:09:49 UTC] PHP Warning:  unlink(images/blogimg//6144991636622679): Is a directory in /home3/rimsrcsp/public_html/admin/function.php on line 539
+[21-Dec-2021 22:09:49 UTC] PHP Warning:  unlink(images/blogimg//6904551532521671): Is a directory in /home3/rimsrcsp/public_html/admin/function.php on line 539
+[21-Dec-2021 22:09:49 UTC] PHP Warning:  unlink(images/blogimg//7983391558066874): Is a directory in /home3/rimsrcsp/public_html/admin/function.php on line 539
+[21-Dec-2021 22:09:49 UTC] PHP Warning:  rmdir(images/blogimg//): Directory not empty in /home3/rimsrcsp/public_html/admin/function.php on line 541
+[21-Dec-2021 22:09:49 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home3/rimsrcsp/public_html/admin/delnews.php on line 14
+[21-Dec-2021 22:46:42 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home3/rimsrcsp/public_html/admin/delus.php on line 10
+[21-Dec-2021 22:47:26 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home3/rimsrcsp/public_html/admin/delus.php on line 10
+[21-Dec-2021 22:47:35 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home3/rimsrcsp/public_html/admin/delus.php on line 10
+[21-Dec-2021 22:47:45 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home3/rimsrcsp/public_html/admin/delus.php on line 10
+[04-Jan-2022 23:08:28 asia/singapore] PHP Notice:  Undefined index: img in /home3/rimsrcsp/public_html/admin/addpages.php on line 26
+[11-Jan-2022 05:45:00 asia/singapore] PHP Notice:  Undefined index: tag in /home3/rimsrcsp/public_html/admin/editnews.php on line 40
+[06-Feb-2022 03:27:02 asia/singapore] PHP Notice:  Undefined index: tag in /home3/rimsrcsp/public_html/admin/editnews.php on line 40
+[06-Feb-2022 03:27:15 asia/singapore] PHP Notice:  Undefined index: tag in /home3/rimsrcsp/public_html/admin/editnews.php on line 40
+[06-Feb-2022 03:36:04 asia/singapore] PHP Notice:  Undefined index: tag in /home3/rimsrcsp/public_html/admin/editnews.php on line 40
+[06-Feb-2022 03:36:39 asia/singapore] PHP Notice:  Undefined index: tag in /home3/rimsrcsp/public_html/admin/editnews.php on line 40
+[06-Feb-2022 03:36:45 asia/singapore] PHP Notice:  Undefined index: tag in /home3/rimsrcsp/public_html/admin/editnews.php on line 40
+[06-Feb-2022 03:38:06 asia/singapore] PHP Warning:  move_uploaded_file(../images/reference_books/general_management/up1.pdf): failed to open stream: No such file or directory in /home3/rimsrcsp/public_html/admin/uploadbooks.php on line 30
+[06-Feb-2022 03:38:06 asia/singapore] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpGnA3F4' to '../images/reference_books/general_management/up1.pdf' in /home3/rimsrcsp/public_html/admin/uploadbooks.php on line 30
+[06-Feb-2022 03:52:12 asia/singapore] PHP Warning:  move_uploaded_file(../images/assignments/big_data/up1.pdf): failed to open stream: No such file or directory in /home3/rimsrcsp/public_html/admin/uploadassign.php on line 30
+[06-Feb-2022 03:52:12 asia/singapore] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpy1FMI3' to '../images/assignments/big_data/up1.pdf' in /home3/rimsrcsp/public_html/admin/uploadassign.php on line 30
+[06-Feb-2022 03:57:39 asia/singapore] PHP Warning:  move_uploaded_file(../images/tutorials/project_management/up1.mp4): failed to open stream: No such file or directory in /home3/rimsrcsp/public_html/admin/uploadvideo.php on line 28
+[06-Feb-2022 03:57:39 asia/singapore] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpk4w28M' to '../images/tutorials/project_management/up1.mp4' in /home3/rimsrcsp/public_html/admin/uploadvideo.php on line 28

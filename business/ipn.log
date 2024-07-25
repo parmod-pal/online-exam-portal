@@ -1,0 +1,204 @@
+[2018-09-27 07:10 Etc/GMT] HTTP request of validation request:POST /cgi-bin/webscr HTTP/1.1
+Host: www.paypal.com
+Accept: */*
+Connection: Close
+Content-Length: 1060
+Content-Type: application/x-www-form-urlencoded
+Expect: 100-continue
+
+ for IPN payload: cmd=_notify-validate&mc_gross=99.00&protection_eligibility=Ineligible&address_status=confirmed&payer_id=8K3EBJVGJBS5L&address_street=122+Ajisha+Ist+Main+MLA+Layout+RT+Nagar&payment_date=00%3A10%3A00+Sep+27%2C+2018+PDT&payment_status=Completed&charset=windows-1252&address_zip=560032&first_name=DR+S+S&mc_fee=6.47&address_country_code=IN&address_name=DR+S+S+CHANDRASHEKAR&notify_version=3.9&custom=&payer_status=verified&business=director%40rimsr.in&address_country=India&address_city=Bangalore&quantity=1&verify_sign=AvyBWy3FG3y2uKp8yoC.v0sZaY.yAIDN8Zx8la4YNM1DbHRaxR6Z3JtO&payer_email=drsschandra%40gmail.com&txn_id=4X469320UF1585512&payment_type=instant&last_name=CHANDRASHEKAR&address_state=Karnataka&receiver_email=director%40rimsr.in&payment_fee=&shipping_discount=0.00&insurance_amount=0.00&receiver_id=7CD7TE9DL8GSS&txn_type=web_accept&item_name=Business+Game+-+Subscribe&discount=0.00&mc_currency=INR&item_number=&residence_country=IN&receipt_id=4245-1609-2079-4988&shipping_method=Default&transaction_subject=&payment_gross=&ipn_track_id=81c30841f1434
+[2018-09-27 07:10 Etc/GMT] HTTP response of validation request: HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg11.slc
+Paypal-Debug-Id: 73e13d76bbb12
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: slc-b-origin-www-2.paypal.com
+X-EdgeConnect-MidMile-RTT: 6
+X-EdgeConnect-Origin-MEX-Latency: 658
+Date: Thu, 27 Sep 2018 07:10:15 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=XzNaFqpfg4KczxrHHm7r1WcmtGM-9w43lNyILaq7XmQz2f1Z3OhnHpQDZN29e0tPbrOuhugSDi7c9hfuCU3UhKS27uudmAjaP-dDuBnxFeHvQsX8xkOxaulCvZB4zHf1yTPrvyg0XvX28wyZ0_qRGhlJ0nBJkyAPXAEyTHO1T4cAoAiESw64FlJJu2tiVi9DvYmitkaFhtDw7K7HZKG7Jy-JvPM_zq3wqFbKj60ZKeWRuOAS8Ue5VI5POm98ReXWPYwptjFE5N3j6ula3kywdxiY5_SR1xeKc55e_RNM5fouc4_9TsbIsZNFTPTFRVg04VQteoVQaFl3lsgKtmaJknX3ldf9JSfKjxPvCt2o9rdEQC7vF11_WYOq1U-w2jx0Tzi93VcyFH-AoRDGGBaj48VVxfHc_vy4sf5m2q8uGmMzr2tYIy4jK8YacQm; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sun, 24-Sep-2028 07:10:15 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sat, 26-Sep-2020 07:10:15 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE6.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D1451404379%26HTTP_X_PP_AZ_LOCATOR%3Ddcg11.slc; Expires=Thu, 27 Sep 2018 07:40:15 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=slc-b-origin-www-2.paypal.com; expires=Thu, 27-Sep-2018 07:40:15 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1538032815~id=7247682ee11b0661ab9279ec7072db2f; Domain=www.paypal.com; Path=/; Secure; HttpOnly
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+[2018-09-27 07:10 Etc/GMT] Verified IPN: cmd=_notify-validate&mc_gross=99.00&protection_eligibility=Ineligible&address_status=confirmed&payer_id=8K3EBJVGJBS5L&address_street=122+Ajisha+Ist+Main+MLA+Layout+RT+Nagar&payment_date=00%3A10%3A00+Sep+27%2C+2018+PDT&payment_status=Completed&charset=windows-1252&address_zip=560032&first_name=DR+S+S&mc_fee=6.47&address_country_code=IN&address_name=DR+S+S+CHANDRASHEKAR&notify_version=3.9&custom=&payer_status=verified&business=director%40rimsr.in&address_country=India&address_city=Bangalore&quantity=1&verify_sign=AvyBWy3FG3y2uKp8yoC.v0sZaY.yAIDN8Zx8la4YNM1DbHRaxR6Z3JtO&payer_email=drsschandra%40gmail.com&txn_id=4X469320UF1585512&payment_type=instant&last_name=CHANDRASHEKAR&address_state=Karnataka&receiver_email=director%40rimsr.in&payment_fee=&shipping_discount=0.00&insurance_amount=0.00&receiver_id=7CD7TE9DL8GSS&txn_type=web_accept&item_name=Business+Game+-+Subscribe&discount=0.00&mc_currency=INR&item_number=&residence_country=IN&receipt_id=4245-1609-2079-4988&shipping_method=Default&transaction_subject=&payment_gross=&ipn_track_id=81c30841f1434 
+[2018-09-27 07:14 Etc/GMT] HTTP request of validation request:POST /cgi-bin/webscr HTTP/1.1
+Host: www.paypal.com
+Accept: */*
+Connection: Close
+Content-Length: 1074
+Content-Type: application/x-www-form-urlencoded
+Expect: 100-continue
+
+ for IPN payload: cmd=_notify-validate&mc_gross=99.00&protection_eligibility=Ineligible&address_status=confirmed&payer_id=7KVLJDCR4X8SQ&address_street=122%2C+Ajisha%2C+Ist+Main%2C+MLA+Layout%0D%0ART+Nagar&payment_date=00%3A14%3A48+Sep+27%2C+2018+PDT&payment_status=Completed&charset=windows-1252&address_zip=560032&first_name=DR+S+S&mc_fee=6.47&address_country_code=IN&address_name=DR+S+S+CHANDRASHEKAR&notify_version=3.9&custom=&payer_status=verified&business=director%40rimsr.in&address_country=India&address_city=BANGALORE&quantity=1&verify_sign=AqZMCvMy0L6FyOQ4zpOV9R6Oe2ApArs1wnMwk8UeQkaX-sMZSctJ63WR&payer_email=drsschandra%40gmail.com&txn_id=0XE46410Y0697830S&payment_type=instant&last_name=CHANDRASHEKAR&address_state=Karnataka&receiver_email=director%40rimsr.in&payment_fee=&shipping_discount=0.00&insurance_amount=0.00&receiver_id=7CD7TE9DL8GSS&txn_type=web_accept&item_name=Business+Game+-+Subscribe&discount=0.00&mc_currency=INR&item_number=&residence_country=IN&receipt_id=3089-3228-1649-0094&shipping_method=Default&transaction_subject=&payment_gross=&ipn_track_id=dc0c4eb85b13f
+[2018-09-27 07:14 Etc/GMT] HTTP response of validation request: HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg11.slc
+Paypal-Debug-Id: d95326497ac07
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: ccg11-origin-www-2.paypal.com
+X-EdgeConnect-MidMile-RTT: 2
+X-EdgeConnect-Origin-MEX-Latency: 667
+Date: Thu, 27 Sep 2018 07:14:59 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=gSx8w52SNBctbHqDBxMvbX-Rpy5CmThS5CQkzViiPd8I14dzrVvPQR-2OXbgtcr3FUmko4TO_j32Mj1N-L6bYJ6ZXB4yNB7eeuIj0HXzy2U0N70Pzb2mHI2zVHeKqpot39NTJhs4PCDahPbIlSUgJLCmE8WO0QC33d_uqI3_iT-dm-BzssbLWfr4mwIGGMFFf9ZEFYct41m7nMbWggrtgrTH9BAZmqoSOlgr9HdlpN63ajvn3tHn9aOVs0jY30QxlBBZ7Z4M-cl_xzsx4PH-wArfgu9a2um5KxM3sZOBgUSZe7MEQyR6dh2H4kRZzxUcQ3JjhYjF0sDMe_UnEed_hXlDBKJDJoLrUYAlNZMvmm6mOeCSz3dLqK-Nl2E7pKNEXruB-D8LwSxQdCtr47iZJlp06H6f2B5B0pkPvR0GhbsojT2EIxittX5iM_8; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sun, 24-Sep-2028 07:14:58 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sat, 26-Sep-2020 07:14:58 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE5.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D1921231963%26HTTP_X_PP_AZ_LOCATOR%3Ddcg11.slc; Expires=Thu, 27 Sep 2018 07:44:58 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=ccg11-origin-www-2.paypal.com; expires=Thu, 27-Sep-2018 07:44:59 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1538033099~id=24003e30e850a0b187ab34c640a3ed73; Domain=www.paypal.com; Path=/; Secure; HttpOnly
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+[2018-09-27 07:14 Etc/GMT] Verified IPN: cmd=_notify-validate&mc_gross=99.00&protection_eligibility=Ineligible&address_status=confirmed&payer_id=7KVLJDCR4X8SQ&address_street=122%2C+Ajisha%2C+Ist+Main%2C+MLA+Layout%0D%0ART+Nagar&payment_date=00%3A14%3A48+Sep+27%2C+2018+PDT&payment_status=Completed&charset=windows-1252&address_zip=560032&first_name=DR+S+S&mc_fee=6.47&address_country_code=IN&address_name=DR+S+S+CHANDRASHEKAR&notify_version=3.9&custom=&payer_status=verified&business=director%40rimsr.in&address_country=India&address_city=BANGALORE&quantity=1&verify_sign=AqZMCvMy0L6FyOQ4zpOV9R6Oe2ApArs1wnMwk8UeQkaX-sMZSctJ63WR&payer_email=drsschandra%40gmail.com&txn_id=0XE46410Y0697830S&payment_type=instant&last_name=CHANDRASHEKAR&address_state=Karnataka&receiver_email=director%40rimsr.in&payment_fee=&shipping_discount=0.00&insurance_amount=0.00&receiver_id=7CD7TE9DL8GSS&txn_type=web_accept&item_name=Business+Game+-+Subscribe&discount=0.00&mc_currency=INR&item_number=&residence_country=IN&receipt_id=3089-3228-1649-0094&shipping_method=Default&transaction_subject=&payment_gross=&ipn_track_id=dc0c4eb85b13f 
+[2018-09-28 06:31 Etc/GMT] HTTP request of validation request:POST /cgi-bin/webscr HTTP/1.1
+Host: www.paypal.com
+Accept: */*
+Connection: Close
+Content-Length: 1074
+Content-Type: application/x-www-form-urlencoded
+Expect: 100-continue
+
+ for IPN payload: cmd=_notify-validate&mc_gross=99.00&protection_eligibility=Ineligible&address_status=confirmed&payer_id=8K3EBJVGJBS5L&address_street=122%2C+Ajisha%2C+1st+Main%2C+MLA+Layout%0D%0ART+Nagar&payment_date=23%3A31%3A05+Sep+27%2C+2018+PDT&payment_status=Completed&charset=windows-1252&address_zip=360032&first_name=DR+S+S&mc_fee=6.47&address_country_code=IN&address_name=DR+S+S+CHANDRASHEKAR&notify_version=3.9&custom=&payer_status=verified&business=director%40rimsr.in&address_country=India&address_city=Bangalore&quantity=1&verify_sign=A7njcyU-Uu8b54Bwt0vpWMQxE.K.AOunKMM1OjWtoj2XcsrPc0B7bxAg&payer_email=drsschandra%40gmail.com&txn_id=2KN49466VU9929712&payment_type=instant&last_name=CHANDRASHEKAR&address_state=Karnataka&receiver_email=director%40rimsr.in&payment_fee=&shipping_discount=0.00&insurance_amount=0.00&receiver_id=7CD7TE9DL8GSS&txn_type=web_accept&item_name=Business+Game+-+Subscribe&discount=0.00&mc_currency=INR&item_number=&residence_country=IN&receipt_id=2011-8385-0955-2358&shipping_method=Default&transaction_subject=&payment_gross=&ipn_track_id=89686d53201f2
+[2018-09-28 06:31 Etc/GMT] HTTP response of validation request: HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg11.slc
+Paypal-Debug-Id: d3fff3319100e
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: ccg11-origin-www-2.paypal.com
+X-EdgeConnect-MidMile-RTT: 3
+X-EdgeConnect-Origin-MEX-Latency: 694
+Date: Fri, 28 Sep 2018 06:31:16 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=7QftlfZEil0qd1tD3eRabVbAju3h601XRfn5lkeBjFy8w-EV4wi1y1VRjKlq7L01ejz1fMwLAlSSssa5EdVgLuO_KiLoIus-i6v6cAUdF-cVh5d-p_V4vC6Zstg82riTRI1323ZsWAg1MfdnexDudKerwC7R8zy6uED9WFJ8s-yduPgqmKsER73OTAm5tFLGjlFRbiGZsfH_TIQeJVOOJ8aJh1uvqKMnOuGGpBHjVWJxqQi6dHNx5CDGdrUUnRrr3SXj8dw8WhiVhevzvEfRLGGK8vCxVg9MF0aTIhwzUNJJbXFRYLfo9aleRWUqa7U-y1xC8J54Rqf9SdjGOH0mFybNgyMaD4k2ZM2z2FSNJFBVKK_uDmgibAm8YpBSJaO2kAuh_7j49rDOpsBr4RNjroMfrKkRh5kgNkamL7f3T66Mf8--UphVxTU2SZ0; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Mon, 25-Sep-2028 06:31:15 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sun, 27-Sep-2020 06:31:15 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE5.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D3016404315%26HTTP_X_PP_AZ_LOCATOR%3Ddcg11.slc; Expires=Fri, 28 Sep 2018 07:01:16 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=ccg11-origin-www-2.paypal.com; expires=Fri, 28-Sep-2018 07:01:16 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1538116876~id=7e6fb772ea44c9c2568d1dd533a53515; Domain=www.paypal.com; Path=/; Secure; HttpOnly
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+[2018-09-28 06:31 Etc/GMT] Verified IPN: cmd=_notify-validate&mc_gross=99.00&protection_eligibility=Ineligible&address_status=confirmed&payer_id=8K3EBJVGJBS5L&address_street=122%2C+Ajisha%2C+1st+Main%2C+MLA+Layout%0D%0ART+Nagar&payment_date=23%3A31%3A05+Sep+27%2C+2018+PDT&payment_status=Completed&charset=windows-1252&address_zip=360032&first_name=DR+S+S&mc_fee=6.47&address_country_code=IN&address_name=DR+S+S+CHANDRASHEKAR&notify_version=3.9&custom=&payer_status=verified&business=director%40rimsr.in&address_country=India&address_city=Bangalore&quantity=1&verify_sign=A7njcyU-Uu8b54Bwt0vpWMQxE.K.AOunKMM1OjWtoj2XcsrPc0B7bxAg&payer_email=drsschandra%40gmail.com&txn_id=2KN49466VU9929712&payment_type=instant&last_name=CHANDRASHEKAR&address_state=Karnataka&receiver_email=director%40rimsr.in&payment_fee=&shipping_discount=0.00&insurance_amount=0.00&receiver_id=7CD7TE9DL8GSS&txn_type=web_accept&item_name=Business+Game+-+Subscribe&discount=0.00&mc_currency=INR&item_number=&residence_country=IN&receipt_id=2011-8385-0955-2358&shipping_method=Default&transaction_subject=&payment_gross=&ipn_track_id=89686d53201f2 
+[2019-01-22 06:37 Etc/GMT] HTTP request of validation request:POST /cgi-bin/webscr HTTP/1.1
+Host: www.paypal.com
+Accept: */*
+Connection: Close
+Content-Length: 1069
+Content-Type: application/x-www-form-urlencoded
+Expect: 100-continue
+
+ for IPN payload: cmd=_notify-validate&mc_gross=99.00&protection_eligibility=Ineligible&address_status=confirmed&payer_id=PUQV4ZHEKVUMW&address_street=3rd+Floor%2C+Akshar+Blue+Chip+IT+Park%0D%0ATurbhe+MIDC&payment_date=22%3A37%3A14+Jan+21%2C+2019+PST&payment_status=Completed&charset=windows-1252&address_zip=400705&first_name=Martin&mc_fee=6.47&address_country_code=IN&address_name=Martin+Athanas&notify_version=3.9&custom=&payer_status=verified&business=director%40rimsr.in&address_country=India&address_city=NAVI+MUMBAI&quantity=1&verify_sign=AO96.kgKIcK2eeEv0Cmdm.3rG9RyA2hjky.OwsJfUgYhNcGIYUhjROSQ&payer_email=martinathanas%40gmail.com&txn_id=81666693V2580160T&payment_type=instant&last_name=Athanas&address_state=Maharashtra&receiver_email=director%40rimsr.in&payment_fee=&shipping_discount=0.00&insurance_amount=0.00&receiver_id=7CD7TE9DL8GSS&txn_type=web_accept&item_name=Business+Game+-+Subscribe&discount=0.00&mc_currency=INR&item_number=&residence_country=IN&receipt_id=0934-3399-9150-6893&shipping_method=Default&transaction_subject=&payment_gross=&ipn_track_id=efc1c958910a0
+[2019-01-22 06:37 Etc/GMT] HTTP response of validation request: HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg12.slc
+Paypal-Debug-Id: 9035a9f63a606
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: phx-origin-www-1.paypal.com
+Date: Tue, 22 Jan 2019 06:37:23 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=aBYTdmP1_YoVJb3byv4w_4FMRM4wGzaCOh9i4vum-5XociNoNcbFIiHhjrMiYkLLE4bOsoS54ypRMY4M9HGJg5uJTotsVYB-WUie27o5Mlv8ez1Au4x1osV4p3tDl5SPBQ158DBLLOozPQu11MaSZGLLeCLHntW0lhJqBL9CTlyEXeMrD4_pPENg-WT3tYxk6cGlmg4_4xDVEjKx9T4mz4TKVEY445NI0lSO9jsU_nh-0dVxdzdMKQotAEVUGxUTOUTLKfS51JYK2hIoGj8U1Vx7gF08yJSX-aer1zW-aejHERi08Hdpuo_Bruw7BJdu6zS7HwAVwhYziCJX0rGW-ZbzrFP8S-EuW5yZhxR01EDaeeI7jNICZnr-OQabL0dgPM1RNGOM-QiH1JEE3zPiCP_dUMl5W4oXI6iH4a03SCShUbURYUk9pZKU054; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Fri, 19-Jan-2029 06:37:23 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Thu, 21-Jan-2021 06:37:23 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE3.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D599410268%26HTTP_X_PP_AZ_LOCATOR%3Ddcg12.slc; Expires=Tue, 22 Jan 2019 07:07:23 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=phx-origin-www-1.paypal.com; expires=Tue, 22-Jan-2019 07:07:23 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1548139643~id=cca2a1eb78bf5ee8dd3b223263bbed63; Domain=www.paypal.com; Path=/; Secure; HttpOnly
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+[2019-01-22 06:37 Etc/GMT] Verified IPN: cmd=_notify-validate&mc_gross=99.00&protection_eligibility=Ineligible&address_status=confirmed&payer_id=PUQV4ZHEKVUMW&address_street=3rd+Floor%2C+Akshar+Blue+Chip+IT+Park%0D%0ATurbhe+MIDC&payment_date=22%3A37%3A14+Jan+21%2C+2019+PST&payment_status=Completed&charset=windows-1252&address_zip=400705&first_name=Martin&mc_fee=6.47&address_country_code=IN&address_name=Martin+Athanas&notify_version=3.9&custom=&payer_status=verified&business=director%40rimsr.in&address_country=India&address_city=NAVI+MUMBAI&quantity=1&verify_sign=AO96.kgKIcK2eeEv0Cmdm.3rG9RyA2hjky.OwsJfUgYhNcGIYUhjROSQ&payer_email=martinathanas%40gmail.com&txn_id=81666693V2580160T&payment_type=instant&last_name=Athanas&address_state=Maharashtra&receiver_email=director%40rimsr.in&payment_fee=&shipping_discount=0.00&insurance_amount=0.00&receiver_id=7CD7TE9DL8GSS&txn_type=web_accept&item_name=Business+Game+-+Subscribe&discount=0.00&mc_currency=INR&item_number=&residence_country=IN&receipt_id=0934-3399-9150-6893&shipping_method=Default&transaction_subject=&payment_gross=&ipn_track_id=efc1c958910a0 
+[2019-04-02 16:24 Etc/GMT] HTTP request of validation request:POST /cgi-bin/webscr HTTP/1.1
+Host: www.paypal.com
+Accept: */*
+Connection: Close
+Content-Length: 1073
+Content-Type: application/x-www-form-urlencoded
+Expect: 100-continue
+
+ for IPN payload: cmd=_notify-validate&mc_gross=99.00&protection_eligibility=Ineligible&address_status=confirmed&payer_id=7KVLJDCR4X8SQ&address_street=122%2C+Ajisha%2C+Ist+Main%2C+MLA+Layout%0D%0ART+Nagar&payment_date=09%3A24%3A00+Apr+02%2C+2019+PDT&payment_status=Completed&charset=windows-1252&address_zip=560032&first_name=DR+SS&mc_fee=6.47&address_country_code=IN&address_name=DR+SS+CHANDRASHEKAR&notify_version=3.9&custom=&payer_status=verified&business=director%40rimsr.in&address_country=India&address_city=BANGALORE&quantity=1&verify_sign=AEfdMJ-xMvSkhPuCqAC.I0PAFi6-A6k9AKpmuTBIhAGSTlTfy2Fgj5SW&payer_email=erniebaker63%40yahoo.com&txn_id=26E375191E909920A&payment_type=instant&last_name=CHANDRASHEKAR&address_state=KARNATAKA&receiver_email=director%40rimsr.in&payment_fee=&shipping_discount=0.00&insurance_amount=0.00&receiver_id=7CD7TE9DL8GSS&txn_type=web_accept&item_name=Business+Game+-+Subscribe&discount=0.00&mc_currency=INR&item_number=&residence_country=IN&receipt_id=3832-8914-6642-6004&shipping_method=Default&transaction_subject=&payment_gross=&ipn_track_id=39392646690bc
+[2019-04-02 16:24 Etc/GMT] HTTP response of validation request: HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg12.slc
+Paypal-Debug-Id: e5ddaf165a4d
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: slc-b-origin-www-1.paypal.com
+Date: Tue, 02 Apr 2019 16:24:12 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=FO0geESGfcc4kr7b0aWSFC4ypdwvwcFAKsg8bGlj_30JJEjtYoWj2T6ZH-oI2SLI5f2X9Dj9TIAJZGGGQ6t2PGKtvo3qvO6Pj7uokD2w8ahxK9RUiqEITQgrMd_t2YaElMqzQ1PJfboJtzKc5k_dCs2oB6eLHRUOt1bJ9BV3d7Asqn4Q3GkIbqumCbNca5TEdBgxVSY6TcVpF7FMTofE-wciim_L0YbVewV-KJXTrwww7t9Stv9Q4O6J-BJUB0g6CFkqYZ8d55tPJejf7OOcyZ93wox2pnLPjVE3QwLIExcb9XJSYMu3jTq8F27lPNrFInTHqXkuyqQRracoNb_TLvsQVIGzb9Qr3Ua7V6Tw4BGsyjE-x0z2gzpEG0AN6TBpb8catGBx0ypfMOcwfT8T3FQRT5vGTHxyQTgQF4twuJkT2zQ_xdvgvRavZ6O; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Fri, 30-Mar-2029 16:24:12 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Thu, 01-Apr-2021 16:24:12 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE6.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D2894898012%26HTTP_X_PP_AZ_LOCATOR%3Ddcg12.slc; Expires=Tue, 02 Apr 2019 16:54:12 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=slc-b-origin-www-1.paypal.com; expires=Tue, 02-Apr-2019 16:54:12 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1554222852~id=a8590659f2ca05168c4366c4309eb8c6; Domain=www.paypal.com; Path=/; Secure; HttpOnly
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+[2019-04-02 16:24 Etc/GMT] Verified IPN: cmd=_notify-validate&mc_gross=99.00&protection_eligibility=Ineligible&address_status=confirmed&payer_id=7KVLJDCR4X8SQ&address_street=122%2C+Ajisha%2C+Ist+Main%2C+MLA+Layout%0D%0ART+Nagar&payment_date=09%3A24%3A00+Apr+02%2C+2019+PDT&payment_status=Completed&charset=windows-1252&address_zip=560032&first_name=DR+SS&mc_fee=6.47&address_country_code=IN&address_name=DR+SS+CHANDRASHEKAR&notify_version=3.9&custom=&payer_status=verified&business=director%40rimsr.in&address_country=India&address_city=BANGALORE&quantity=1&verify_sign=AEfdMJ-xMvSkhPuCqAC.I0PAFi6-A6k9AKpmuTBIhAGSTlTfy2Fgj5SW&payer_email=erniebaker63%40yahoo.com&txn_id=26E375191E909920A&payment_type=instant&last_name=CHANDRASHEKAR&address_state=KARNATAKA&receiver_email=director%40rimsr.in&payment_fee=&shipping_discount=0.00&insurance_amount=0.00&receiver_id=7CD7TE9DL8GSS&txn_type=web_accept&item_name=Business+Game+-+Subscribe&discount=0.00&mc_currency=INR&item_number=&residence_country=IN&receipt_id=3832-8914-6642-6004&shipping_method=Default&transaction_subject=&payment_gross=&ipn_track_id=39392646690bc 
+[2019-04-30 09:06 Etc/GMT] HTTP request of validation request:POST /cgi-bin/webscr HTTP/1.1
+Host: www.paypal.com
+Accept: */*
+Connection: Close
+Content-Length: 1050
+Content-Type: application/x-www-form-urlencoded
+Expect: 100-continue
+
+ for IPN payload: cmd=_notify-validate&mc_gross=99.00&protection_eligibility=Ineligible&address_status=confirmed&payer_id=YFG3UHY2YJW3N&address_street=122+Ajisha+Ist+Main+MLA+Layout+RT+Nagar&payment_date=02%3A06%3A20+Apr+30%2C+2019+PDT&payment_status=Completed&charset=windows-1252&address_zip=560032&first_name=S&mc_fee=6.47&address_country_code=IN&address_name=S+CHANDRASHEKAR&notify_version=3.9&custom=&payer_status=verified&business=director%40rimsr.in&address_country=India&address_city=Bangalore&quantity=1&verify_sign=A2M4zeWb3jXZPs4H5uqflFloojjHAaOJ2Y5x59pKir8KgiJ24-qYK9Gv&payer_email=drsschandra%40gmail.com&txn_id=1V286294EY2418636&payment_type=instant&last_name=CHANDRASHEKAR&address_state=KARNATAKA&receiver_email=director%40rimsr.in&payment_fee=&shipping_discount=0.00&insurance_amount=0.00&receiver_id=7CD7TE9DL8GSS&txn_type=web_accept&item_name=Business+Game+-+Subscribe&discount=0.00&mc_currency=INR&item_number=&residence_country=IN&receipt_id=1475-8070-1124-8970&shipping_method=Default&transaction_subject=&payment_gross=&ipn_track_id=e7c78e99949f3
+[2019-04-30 09:06 Etc/GMT] HTTP response of validation request: HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg11.slc
+Paypal-Debug-Id: 37229ce81904b
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: ccg11-origin-www-1.paypal.com
+Date: Tue, 30 Apr 2019 09:06:32 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=aA7lZhHBVAI-b6Yg7TcAfkTMMVZryuUZLc8nOLqFymiqFJ7t55SI5KKpcoTSgOGwbPVPumKMaJ9ummQn-rcni-NV4PVQ7HtCGVE5wS3pe-eDnGVEESFRCULbUGZqrioDwWWACu_eyWGSAgRKSWr9DNfoxb2aUNZlT3OSFxrMtdsN4iARtUgZzgX-gZg9fJofBAI4qQX7w_4gwKsbvTqkZINOftx_-NHJxTpap-pxuBD5mG9FEPM9DPTNhHM2Y7Ojc2CNBSkurJ9XVIY5y8LsEN1ghZqtgNV0wnfs5-WLWw7rL_lhIVAcBjWXzZfayCldPw_WpVOm3oCdcvfbB8nZZb6iLu14MMf67uoFSjkHSvo3z-kghgGMvqNtCODZS268u86MOAaZ-EDZ9m2SJaHVIZVHt239iTF34yIzQTYaDLiTfb9YBXxeMXsfyty; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Fri, 27-Apr-2029 09:06:31 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Thu, 29-Apr-2021 09:06:31 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE5.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D386975836%26HTTP_X_PP_AZ_LOCATOR%3Ddcg11.slc; Expires=Tue, 30 Apr 2019 09:36:31 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=ccg11-origin-www-1.paypal.com; expires=Tue, 30-Apr-2019 09:36:32 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1556615792~id=02b799547ff40dc48ad764d0d12ccbdb; Domain=www.paypal.com; Path=/; Secure; HttpOnly
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+[2019-04-30 09:06 Etc/GMT] Verified IPN: cmd=_notify-validate&mc_gross=99.00&protection_eligibility=Ineligible&address_status=confirmed&payer_id=YFG3UHY2YJW3N&address_street=122+Ajisha+Ist+Main+MLA+Layout+RT+Nagar&payment_date=02%3A06%3A20+Apr+30%2C+2019+PDT&payment_status=Completed&charset=windows-1252&address_zip=560032&first_name=S&mc_fee=6.47&address_country_code=IN&address_name=S+CHANDRASHEKAR&notify_version=3.9&custom=&payer_status=verified&business=director%40rimsr.in&address_country=India&address_city=Bangalore&quantity=1&verify_sign=A2M4zeWb3jXZPs4H5uqflFloojjHAaOJ2Y5x59pKir8KgiJ24-qYK9Gv&payer_email=drsschandra%40gmail.com&txn_id=1V286294EY2418636&payment_type=instant&last_name=CHANDRASHEKAR&address_state=KARNATAKA&receiver_email=director%40rimsr.in&payment_fee=&shipping_discount=0.00&insurance_amount=0.00&receiver_id=7CD7TE9DL8GSS&txn_type=web_accept&item_name=Business+Game+-+Subscribe&discount=0.00&mc_currency=INR&item_number=&residence_country=IN&receipt_id=1475-8070-1124-8970&shipping_method=Default&transaction_subject=&payment_gross=&ipn_track_id=e7c78e99949f3 

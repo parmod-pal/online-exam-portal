@@ -1,0 +1,17 @@
+[24-Dec-2019 00:55:08 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'PasswordHash' not found in /home1/elefaw8a/rimsr.in/exam/login_test.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/elefaw8a/rimsr.in/exam/login_test.php on line 12
+[03-Dec-2021 15:30:52 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'rimsrcsp_rimsr'@'localhost' (using password: YES) in /home3/rimsrcsp/public_html/exam/config.php on line 18
+[03-Dec-2021 15:33:11 UTC] PHP Fatal error:  Uncaught Error: Class 'PasswordHash' not found in /home3/rimsrcsp/public_html/exam/login_test.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/rimsrcsp/public_html/exam/login_test.php on line 12
+[04-Dec-2021 13:55:14 UTC] PHP Fatal error:  Uncaught Error: Class 'PasswordHash' not found in /home3/rimsrcsp/public_html/exam/login_test.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/rimsrcsp/public_html/exam/login_test.php on line 12
+[05-Dec-2021 05:30:10 UTC] PHP Fatal error:  Uncaught Error: Class 'PasswordHash' not found in /home3/rimsrcsp/public_html/exam/login_test.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/rimsrcsp/public_html/exam/login_test.php on line 12
