@@ -35,7 +35,7 @@ include "sidebar.php";
 			$limit = 25;
 			$allquote=select("select * from userdet order by id desc");
 			$total_pages = count($allquote);
-			$stages = 3;$page='';
+			$stages = 3;$page=0;
 			if(isset($_REQUEST['page']))
 			{
 				$page = mysql_escape_string($_REQUEST['page']);
